@@ -1,5 +1,18 @@
 h1 {
 color: blue
+/* add code here to make your image 300px tall, have a border-radius of 25px, and a 1px black solid border.*/
+}
+img {
+    height: 400px;
+    border-radius: 100px;
+    border: 1px blue solid;
+    
+ }
+    
+/* add code here to change the color and font family of your band's name/title */
 
+
+
+/* Bonus: change the color of your list elements */
 
 }
