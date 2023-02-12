@@ -4,15 +4,24 @@ color: blue
 }
 img {
     height: 400px;
-    border-radius: 100px;
-    border: 1px blue solid;
+    border-radius: 200px;
+    
     
  }
     
+ img {
+    width: 550px; 
+    border: 1px blue solid;
+    
+ }
+
+ img {
+    background-color: rgb(255, 252, 249);
+    transform: scaleX(-1);
+ }
+
 /* add code here to change the color and font family of your band's name/title */
 
 
 
 /* Bonus: change the color of your list elements */
-
-}
